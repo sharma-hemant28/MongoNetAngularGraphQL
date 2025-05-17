@@ -1,0 +1,6 @@
+@MongoNetCoreGraphQL_HostAddress = http://localhost:5129
+
+GET {{MongoNetCoreGraphQL_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
