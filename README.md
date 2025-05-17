@@ -24,7 +24,11 @@ This project is a full-stack application built with:
 ## 📂 Project Structure
 /MongoNetAngularGraphQL
 ├── graphQlAngular/ 		  # Angular frontend
+
 ├── MongoNetCoreGraphQL/	  # .NET Core backend (GraphQL API)
+
 ├── my-graphql-server-nodejs/ # nodejs backend (alternate GraphQL API)
+
 ├── .gitignore
+
 └── README.md
